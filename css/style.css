@@ -61,8 +61,7 @@ img {
 
 footer {
 	text-transform: uppercase;
-	padding-right: 20px;
-	padding-left: 20px;
+	padding: 20px;
 	background-color: #0D2C40;
 	color: white;
 	font-size: 14px;
